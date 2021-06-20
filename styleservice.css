@@ -1,0 +1,108 @@
+body{
+	font :16px/20px arial, sains-serif;
+	background-color: #e0e0e0e0;
+	color: #333;
+	background-image: url(img/pattern_01.jpg);
+}
+.container{
+	width: %30px;
+	margin: auto;
+	background-color: #250263;
+}
+.header{
+	padding: 5px;
+	color: black;
+}
+h1.judul{
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #c23616;
+}
+ul li{
+	display: inline-block;
+	margin-right: 45px;
+	margin-left: -35px;
+}
+ul li  a{
+	text-decoration: none;
+	color: white;
+	padding: 3px;
+	border: 1 px solid transparent;
+	transition: 0,6%;
+}
+ul li  a: hover{
+	background-color: #c23616;
+	color: white;
+}
+.horizontal{
+	height: 250px;
+	background-image: url(img/pattern_04.jpg);
+	background-size: cover;
+	background-position: 0-100px;
+	border-top: 3px solid black;
+	border-bottom: 5px solid black;
+} 
+.hero{
+	color: white;
+}
+.judulhero{
+	color: white;
+	padding-right: 20px;
+	padding-left: 10px;
+}
+.subscribe{
+	width: 500px;
+	height: 50px;
+	color: white;
+	padding-right: 30px;
+	padding-left: 10px;
+}
+.hero. button_1{
+	height: 35px;
+	background-color: #c8491d;
+	border: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: black;
+}
+.main{
+	padding: 15px;
+	background: 298869;
+	color: #fff;
+	margin: 10px o 10px o;
+}
+.main.judul{
+	margin-top: -30px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+.dark{
+	padding: 15px;
+	background-color: #258eb9;
+	color: #fff;
+	margin:10px o 10xp o;
+}
+.drak.tema{
+	margin-top: -20px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+
+}
+.footer{
+	background-color: #c23616;
+	padding: 7px;
+}
+.footer.copy{
+	color: #eaeaea;
+	text-align: center;
+	font-size: 13px;
+}
+.main{
+	padding: 15px;
+	background: #2950b0;
+	color: #fff;
+	margin: 10px o 10px o;
+}
+}
